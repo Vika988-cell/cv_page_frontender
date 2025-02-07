@@ -9,6 +9,6 @@
 	3. three
 ```
 
-[CV page repository](https://github.com/Vika988-cell/cv_page_frontender)
+[CV page repository](https://vika988-cell.github.io/cv_page_frontender/)
 
 ![image](assets/avatar.png)
